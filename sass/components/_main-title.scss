@@ -1,0 +1,33 @@
+.main-title {
+  height: 600px;
+  text-align: center;
+  padding: 200px 452px 280px 452px;
+  background: linear-gradient(rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)),
+    url(../images/main-background.jpg);
+  background-color: $background-color;
+
+  &__heading {
+    color: white;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 1.36;
+    text-align: center;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+  }
+
+  &__button {
+    background-color: $primary-color;
+    color: white;
+    font-weight: 700;
+    line-height: 1.88;
+    text-align: center;
+    letter-spacing: 0.06em;
+    width: 200px;
+    height: 50px;
+    border-radius: 4px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    border: none;
+  }
+}
