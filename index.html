@@ -9,48 +9,52 @@
       rel="stylesheet"
     />
     <link rel="stylesheet" href="./css/modern-normalize.css" />
-    <link rel="stylesheet" href="./css/styles.css" />
-    <title>goit-markup-hw-04</title>
+    <link rel="stylesheet" href="./sass/main.css" />
+    <title>goit-markup-hw-07</title>
   </head>
-  <body>
-    <header>
-      <div class="header-section container">
-        <ul class="header-pages">
+  <body class="container">
+    <header class="page-header">
+      <div class="page-header__elements">
+        <ul class="page-header__tabs">
           <li>
-            <a class="header-logo" href="./index.html"
-              ><span class="logo-color">Web</span>Studio</a
+            <a class="logo page-header__logo" href="./index.html"
+              ><span class="logo__color">Web</span>Studio</a
             >
           </li>
           <li>
-            <nav>
-              <ul class="navigation">
-                <li class="navigation-page">
-                  <a class="current-page" href="./index.html">Agencja</a>
+            <nav class="navigation">
+              <ul class="navigation__elements">
+                <li class="navigation__tab">
+                  <a class="navigation__link--blue" href="./index.html"
+                    >Agencja</a
+                  >
                 </li>
-                <li class="navigation-page">
-                  <a href="./portfolio.html">Portfolio</a>
+                <li class="navigation__tab">
+                  <a class="navigation__link" href="./portfolio.html"
+                    >Portfolio</a
+                  >
                 </li>
-                <li class="navigation-page"><a href="#contact">Kontakt</a></li>
+                <li class="navigation__tab">
+                  <a class="navigation__link" href="#contact">Kontakt</a>
+                </li>
               </ul>
             </nav>
           </li>
         </ul>
-        <ul class="header-contact-list">
-          <li class="header-contact-list-item">
-            <svg class="header-icon" width="16px" height="12px">
+        <ul class="contact">
+          <li class="contact__element">
+            <svg class="contact__icon" width="16px" height="12px">
               <use href="./images/icons.svg#icon-envelope-white"></use>
             </svg>
-            <a class="header-contact mail" href="mailto:info@devstudio.com"
+            <a class="contact__link" href="mailto:info@devstudio.com"
               >info@devstudio.com</a
             >
           </li>
-          <li class="header-contact-list-item">
-            <svg class="header-icon" width="10px" height="16px">
+          <li class="contact__element">
+            <svg class="contact__icon" width="10px" height="16px">
               <use href="./images/icons.svg#icon-smartphone"></use>
             </svg>
-            <a class="header-contact phone" href="tel:+48111111111"
-              >+48 111 111 111</a
-            >
+            <a class="contact__link" href="tel:+48111111111">+48 111 111 111</a>
           </li>
         </ul>
       </div>
@@ -330,8 +334,8 @@
     </main>
     <footer id="contact">
       <div class="footer-contact-section">
-        <a class="footer-logo" href="./index.html"
-          ><span class="logo-color">Web</span>Studio</a
+        <a class="logo logo--white" href="./index.html"
+          ><span class="logo__color">Web</span>Studio</a
         >
         <address>
           <p>m. Warszawa, Aleje Jerozolimskie 21</p>
