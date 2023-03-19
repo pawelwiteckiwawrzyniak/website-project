@@ -1,0 +1,29 @@
+.clients {
+  margin: 94px 215px;
+
+  &__list {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    fill: #afb1b8;
+    padding: 0;
+  }
+}
+
+.clients__element {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #afb1b8;
+  border-radius: 4px;
+  width: 170px;
+  height: 92px;
+  transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1),
+    border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+
+  &:hover {
+    fill: $primary-color;
+    border-color: $primary-color;
+    cursor: pointer;
+  }
+}

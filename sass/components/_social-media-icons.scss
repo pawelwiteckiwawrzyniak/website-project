@@ -13,6 +13,10 @@
   &--footer {
     background-color: rgba(255, 255, 255, 0.1);
     fill: white;
+
+    &:not(:first-child) {
+      margin-left: 10px;
+    }
   }
 
   &:hover {
