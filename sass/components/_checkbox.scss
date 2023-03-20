@@ -33,14 +33,14 @@
   }
 
   &__link {
-    color: $primary_color;
+    color: $primary-color;
     text-decoration: underline;
     cursor: pointer;
   }
 }
 
 .checkbox__button:checked + .checkbox__label > .checkbox__icon {
-  background-color: $primary_color;
+  background-color: $primary-color;
   fill: white;
   border: none;
 }

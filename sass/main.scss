@@ -1,5 +1,4 @@
 @import "utils/variables";
-@import "components/container";
 @import "components/logo";
 @import "components/social-media-icons";
 @import "components/page-header";
@@ -12,3 +11,17 @@
 @import "components/checkbox";
 @import "components/filter-button";
 @import "components/projects";
+
+.container {
+  font-family: $main-font;
+  color: $secondary-color;
+  width: 1600px;
+  margin: 0 auto;
+}
+
+.figure {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  padding: 0;
+}
