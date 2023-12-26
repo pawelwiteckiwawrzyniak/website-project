@@ -1,5 +1,5 @@
 # Website
- - This simple website, built using HTML, SCSS, and incorporating a basic JavaScript modal, follows the BEM methodology.
+ - This website, built using HTML, SCSS, and incorporating a basic JavaScript modal, follows the BEM methodology.
  - Static version [_here_](https://pawelwiteckiwawrzyniak.github.io/website-project/).
  - Adaptive version [_here_](https://pawelwiteckiwawrzyniak.github.io/adaptive-website/) - only main page.
  
@@ -14,8 +14,8 @@
 ## Technologies Used:
 - HTML: Responsible for the structure of the web page.
 - CSS: Used for handling the presentation of the page.
-- SCSS: Used for CSS management, following the BEM methodology.
-- SASS: Utilized for enhanced styling capabilities.
+- SCSS: Used for CSS management.
+- SASS: Utilized for enhanced styling capabilities, following the BEM methodology.
 - JavaScript: Utilized to create a simple modal.
   
 ## Project Objectives:
