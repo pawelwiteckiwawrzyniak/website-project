@@ -11,9 +11,10 @@
   
 ## Technologies Used:
 - HTML: Responsible for the structure of the web page.
-- CSS: Cascading Style Sheets, handling the presentation of the page.
-- SCSS: Style sheet language used for CSS management, following the BEM methodology.
-- JavaScript: Utilized to create a simple modal, adding interactivity to the site.
+- CSS: Used for handling the presentation of the page.
+- SCSS: Used for CSS management, following the BEM methodology.
+- SASS: Utilized for enhanced styling capabilities.
+- JavaScript: Utilized to create a simple modal.
   
 ## Project Objectives:
 - Expand knowledge and skills in web development.
