@@ -1,6 +1,6 @@
 # Website
  - This simple website, built using HTML, SCSS, and incorporating a basic JavaScript modal, follows the BEM methodology.
- - Static version [_here_](https://pawelwiteckiwawrzyniak.github.io/static-website/).
+ - Static version [_here_](https://pawelwiteckiwawrzyniak.github.io/website-project/).
  - Adaptive version [_here_](https://pawelwiteckiwawrzyniak.github.io/adaptive-website/) - only main page.
  
 ## Table of Contents
