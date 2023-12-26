@@ -15,7 +15,7 @@
 - HTML: Responsible for the structure of the web page.
 - CSS: Used for handling the presentation of the page.
 - SCSS: Used for CSS management.
-- SASS: Utilized for enhanced styling capabilities, following the BEM methodology.
+- SASS: Utilized for enhanced styling capabilities.
 - JavaScript: Utilized to create a simple modal.
   
 ## Project Objectives:
