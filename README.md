@@ -12,11 +12,9 @@
 - This project is a simple website created to expand knowledge and gain experience in web development.
   
 ## Technologies Used:
-- HTML: Responsible for the structure of the web page.
-- CSS: Used for handling the presentation of the page.
-- SCSS: Used for CSS management.
-- SASS: Utilized for enhanced styling capabilities.
-- JavaScript: Utilized to create a simple modal.
+- HTML
+- CSS, SCSS, SASS
+- JavaScript
   
 ## Project Objectives:
 - Expand knowledge and skills in web development.
