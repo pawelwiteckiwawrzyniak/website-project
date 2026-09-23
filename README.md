@@ -11,7 +11,7 @@ A front-end web project built to implement and practice CSS architecture using t
 * JavaScript
 
 ## Key Features
-* **BEM Methodology:** Implemented scalable and maintainable CSS structure based on Blocks, Elements, and Modifiers.
+* **BEM Methodology:** Implemented scalable and maintainable CSS structure based on BEM Methodology.
 * **SCSS Preprocessor:** Utilized variables, nesting, and mixins to optimize stylesheets.
 * **Interactivity (JS):** Developed a custom modal window using JavaScript.
 * **Responsive Design:** Adaptive layout implemented for the main page to support mobile devices.
