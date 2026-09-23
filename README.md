@@ -4,6 +4,7 @@ A front-end web project built to implement and practice CSS architecture using t
 
 * **Static version:** [_here_](https://pawelwiteckiwawrzyniak.github.io/website-project/)
 * **Adaptive version (main page):** [_here_](https://pawelwiteckiwawrzyniak.github.io/adaptive-website/)
+  ([_github_](https://github.com/pawelwiteckiwawrzyniak/adaptive-website))
 
 ## Technologies Used
 * HTML5
