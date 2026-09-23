@@ -3,8 +3,7 @@
 A front-end web project built to implement and practice CSS architecture using the BEM methodology. The project includes a static version for all subpages and a responsive (adaptive) layout for the main page.
 
 * **Static version:** [_here_](https://pawelwiteckiwawrzyniak.github.io/website-project/)
-* **Adaptive version (main page):** [_here_](https://pawelwiteckiwawrzyniak.github.io/adaptive-website/)
-  ([_github_](https://github.com/pawelwiteckiwawrzyniak/adaptive-website))
+* **Adaptive version**  ([_github_](https://github.com/pawelwiteckiwawrzyniak/adaptive-website)): only main page - [_here_](https://pawelwiteckiwawrzyniak.github.io/adaptive-website/)
 
 ## Technologies Used
 * HTML5
