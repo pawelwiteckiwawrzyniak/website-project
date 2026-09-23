@@ -8,10 +8,10 @@ A front-end web project built to implement and practice CSS architecture using t
 ## Technologies Used
 * HTML5
 * CSS3 / SCSS (SASS)
-* JavaScript (Vanilla JS)
+* JavaScript
 
 ## Key Features
 * **BEM Methodology:** Implemented scalable and maintainable CSS structure based on Blocks, Elements, and Modifiers.
 * **SCSS Preprocessor:** Utilized variables, nesting, and mixins to optimize stylesheets.
-* **Interactivity (JS):** Developed a custom modal window using Vanilla JavaScript.
+* **Interactivity (JS):** Developed a custom modal window using JavaScript.
 * **Responsive Design:** Adaptive layout implemented for the main page to support mobile devices.
